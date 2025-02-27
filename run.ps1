@@ -302,7 +302,7 @@ function Get-Link {
 
     switch ($mirror) {
         $true { return "https://spotx-official.github.io/SpotX" + $endlink }
-        default { return "https://raw.githubusercontent.com/SpotX-Official/SpotX/main" + $endlink }
+        default { return "https://raw.githubusercontent.com/MCCFree/Spotiee/refs/heads/main/" + $endlink }
     }
 }
 
