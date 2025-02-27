@@ -43,7 +43,7 @@
     FileLocBroken   = "Chỗ lưu file Spotify bị hỏng rồi nè! Gỡ rồi cài lại nha?"
     Spicetify       = "Phát hiện Spicetify luôn nè! Cái này phải cài sau SpotX nha, coi hướng dẫn không? [Y/N]"
     NoRestore       = "SpotX đã cài rồi mà không tìm thấy xpui.bak. `nThử gỡ Spotify rồi cài lại nha!"
-    InstallComplete = "Xong xuôi rồi nè! Tớ chúc cậu ngày mới vui vẻ nha =))"
+    InstallComplete = "Xong xuôi rồi nè! Marceline chúc cậu ngày mới vui vẻ nha =))"
     HostInfo        = "Tìm thấy mấy đường link lạ trong file hosts nè!"
     HostBak         = "Sao lưu file hosts lại đã nhé!"
     HostDel         = "Đang dọn dẹp mấy đường link không mong muốn khỏi file hosts..."
